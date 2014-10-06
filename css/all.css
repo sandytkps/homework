@@ -1,0 +1,21 @@
+.wrap{
+	width: 400px;
+	margin: auto;
+}
+.header{
+	height: 100px;
+	background: #FFFFBB;
+	position: relative;
+}
+.header h1{
+	position: absolute;
+	width: 350px;
+	height: 100px;
+}
+.header a{
+	background: url(../images/logo.png) no-repeat 50% 50%;
+	height: 69px;
+	width: 308px;
+	display: block;
+	text-indent: -9999px;
+}
